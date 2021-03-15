@@ -12,7 +12,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=bootstrap)
 
 ### :envelope_with_arrow: Mail me: annleonkova@gmail.com
-### :globe_with_meridians: Telegram: @anna_leonkova
+### :globe_with_meridians: Telegram: https://t.me/anna_leonkova
 
 <!--
 **AnnLeonkova/AnnLeonkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
